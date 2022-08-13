@@ -31,18 +31,18 @@ Here are some ideas to get you started:
   <img align="left" alt="HTML5" height="26px" src="https://cdn.svgporn.com/logos/html-5.svg"/>
   <img align="left" alt="CSS3" height="26px" src="https://cdn.svgporn.com/logos/css-3.svg"/>
     <img align="left" alt="Sass" height="26px" src="https://cdn.svgporn.com/logos/git.svg"/>
-  [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />][VSCode]
-  [<img align="left" alt="JavaScript" width="26px" src="http://3con14.biz/code/_data/js/intro/js-logo.png" />][JS]
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />
+  <img align="left" alt="JavaScript" width="26px" src="http://3con14.biz/code/_data/js/intro/js-logo.png" />
     <img align="left" alt="Python" height="26px" src="https://cdn.svgporn.com/logos/python.svg"/>
   <img align="left" alt="React" height="26px" src="https://cdn.svgporn.com/logos/react.svg"/>
     <img align="left" alt="SvelteKit" height="26px" src="https://cdn.svgporn.com/logos/handlebars.svg"/>
-  [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJS]
+  <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
     <img align="left" alt="Insomnia" height="26px" src="https://cdn.svgporn.com/logos/express.svg"/>
   <img align="left" alt="MongoDB" height="26px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg"/>
-    <img align="left" alt="Sass" height="26px" src="https://cdn.svgporn.com/logos/github.svg"/>
+    <img align="left" alt="github" height="26px" src="https://cdn.svgporn.com/logos/github.svg"/>
   <img align="left" alt="StackOverflow" height="26px" src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg"/>
-  <img align="left" alt="Sass" height="26px" src="https://cdn.svgporn.com/logos/bootstrap.svg"/>
-    <img align="left" alt="Sass" height="26px" src="https://cdn.svgporn.com/logos/postman.svg"/>
+  <img align="left" alt="bootstrap" height="26px" src="https://cdn.svgporn.com/logos/bootstrap.svg"/>
+    <img align="left" alt="postman" height="26px" src="https://cdn.svgporn.com/logos/postman.svg"/>
   <img align="left" alt="oAuth" height="26px" src="https://cdn.svgporn.com/logos/oauth.svg"/>
 
 <br />
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <br />
 
 ### What I'd like to learn:
-  
+  <img align="left" alt="Sass" height="26px" src="https://cdn.svgporn.com/logos/sass.svg"/>
   <img align="left" alt="Nest" height="26px" src="https://cdn.svgporn.com/logos/nextjs.svg"/>
   <img align="left" alt="Django" height="26px" src="https://cdn.svgporn.com/logos/django-icon.svg"/>
   <img align="left" alt="Firebase" height="26px" src="https://cdn.svgporn.com/logos/firebase.svg"/>
