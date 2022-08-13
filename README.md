@@ -1,8 +1,8 @@
 ### Hi there, I'm Abdul 👋
-[![GitHub Follow](https://img.shields.io/github/followers/asgomda?logo=github)](https://github.com/asgomda?tab=followers)
+[![GitHub Follow](https://img.shields.io/github/followers/asgomda?logo=github)](https://github.com/asgomda?tab=followers)]
 
-[![Profile Views](https://komarev.com/ghpvc/?username=asgomda)](https://github.com/asgomda)
-[![GitHub stars](https://img.shields.io/github/stars/asgomda?logo=github)](https://github.com/asgomda)
+[![Profile Views](https://komarev.com/ghpvc/?username=asgomda)](https://github.com/asgomda)]
+[![GitHub stars](https://img.shields.io/github/stars/asgomda?logo=github)](https://github.com/asgomda)]
 <!--
 **asgomda/asgomda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
