@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     <img align="left" alt="github" height="26px" src="https://cdn.svgporn.com/logos/github-icon.svg"/>
   <img align="left" alt="StackOverflow" height="26px" src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg"/>
   <img align="left" alt="bootstrap" height="26px" src="https://cdn.svgporn.com/logos/bootstrap.svg"/>
-    <img align="left" alt="postman" height="26px" src="https://cdn.svgporn.com/logos/postman.svg"/>
+    <img align="left" alt="postman" height="26px" src="https://cdn.svgporn.com/logos/postman-icon.svg"/>
 
 <br />
 
