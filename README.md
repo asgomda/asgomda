@@ -60,6 +60,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Django" height="26px" src="https://cdn.svgporn.com/logos/django-icon.svg"/>
   <img align="left" alt="Firebase" height="26px" src="https://cdn.svgporn.com/logos/firebase.svg"/>
   <img align="left" alt="Docker" height="26px" src="https://cdn.svgporn.com/logos/docker-icon.svg"/>
+  <img align="left" alt="TailwindCSS" height="26px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"/>
   <img align="left" alt="Web Assembly" height="26px" src="https://cdn.svgporn.com/logos/webassembly.svg"/>
     <img align="left" alt="Flutter" height="26px" src="https://cdn.svgporn.com/logos/dart.svg"/>
   <img align="left" alt="AWS" height="26px" src="https://cdn.svgporn.com/logos/aws.svg"/>
