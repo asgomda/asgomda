@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
     <img align="left" alt="Insomnia" height="26px" src="https://cdn.svgporn.com/logos/express.svg"/>
   <img align="left" alt="MongoDB" height="26px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg"/>
-    <img align="left" alt="github" height="26px" src="https://cdn.svgporn.com/logos/github.svg"/>
+    <img align="left" alt="github" height="26px" src="https://cdn.svgporn.com/logos/github-icon.svg"/>
   <img align="left" alt="StackOverflow" height="26px" src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg"/>
   <img align="left" alt="bootstrap" height="26px" src="https://cdn.svgporn.com/logos/bootstrap.svg"/>
     <img align="left" alt="postman" height="26px" src="https://cdn.svgporn.com/logos/postman.svg"/>
