@@ -49,14 +49,14 @@ Here are some ideas to get you started:
 ### 🌱 What I'm learning:
  <img align="left" alt="GraphQl" height="26px" src="https://cdn.svgporn.com/logos/graphql.svg"/>
  <img align="left" alt="TypeScript" height="26px" src="https://cdn.svgporn.com/logos/apollostack.svg"/>
- <img align="left" alt="Next.js" height="26px" src="https://cdn.svgporn.com/logos/heroku.svg"/>
- <img align="left" alt="Nuxt.js" height="26px" src="https://cdn.svgporn.com/logos/redux.svg"/>
+ <img align="left" alt="Heroku" height="26px" src="https://cdn.svgporn.com/logos/heroku.svg"/>
+ <img align="left" alt="NextJS" height="26px" src="https://cdn.svgporn.com/logos/redux.svg"/>
 
 <br />
 
 ### What I'd like to learn:
   <img align="left" alt="Sass" height="26px" src="https://cdn.svgporn.com/logos/sass.svg"/>
-  <img align="left" alt="Nest" height="26px" src="https://cdn.svgporn.com/logos/nextjs.svg"/>
+  <img align="left" alt="Next" height="26px" src="https://cdn.svgporn.com/logos/nextjs.svg"/>
   <img align="left" alt="Django" height="26px" src="https://cdn.svgporn.com/logos/django-icon.svg"/>
   <img align="left" alt="Firebase" height="26px" src="https://cdn.svgporn.com/logos/firebase.svg"/>
   <img align="left" alt="Docker" height="26px" src="https://cdn.svgporn.com/logos/docker-icon.svg"/>
